@@ -29,7 +29,7 @@ function checkInformations(){
 
     if(Senha.value === ''){
         errorMessage(Senha, "A senha é obrigatória")
-    } else if(Senha.length < 7){
+    } else if(Senha.value.length < 7){
         errorMessage(Senha, "O mínimo é 7 caracteres")
     } else {
         setSuccessFor(Senha)
