@@ -1,3 +1,3 @@
-#### Validação de Formulário com javaScript ✔
+### Validação de Formulário com javaScript
 
-<a href="https://viniciussilver.github.io/form_javaScript/">Deploy da aplicação </a>
+<p>Link da aplicação: <a href="https://viniciussilver.github.io/form_javaScript/">Clique aqui</a></p>
